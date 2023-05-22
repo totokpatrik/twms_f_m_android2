@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">twms_f_m_android</string>
+    <string name="login">Login</string>
+    <string name="user_id">User ID</string>
+    <string name="please_enter_your_user_id">Please enter your user id.</string>
+    <string name="please_enter_your_password">Please enter your password.</string>
+    <string name="password">Password</string>
+</resources>
