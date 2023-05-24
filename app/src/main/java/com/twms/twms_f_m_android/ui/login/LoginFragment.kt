@@ -9,7 +9,9 @@ import com.twms.twms_f_m_android.R
 import com.twms.twms_f_m_android.databinding.FragmentLoginBinding
 import com.twms.twms_f_m_android.ui.base.BaseFragment
 import com.twms.twms_f_m_android.ui.base.BaseViewModel
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class LoginFragment : BaseFragment<FragmentLoginBinding>(FragmentLoginBinding::inflate) {
 
     private lateinit var viewModel: LoginViewModel
